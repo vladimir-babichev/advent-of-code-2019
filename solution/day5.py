@@ -80,7 +80,7 @@ def main():
 
     task = Day5(f"{inputDir}/day5.txt")
     result = task.run(5)
-    print(f"Task 1: {result[0]}")
+    print(f"Task 2: {result[0]}")
 
 if __name__ == "__main__":
     main()
