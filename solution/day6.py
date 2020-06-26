@@ -3,11 +3,6 @@
 import os
 from typing import List
 
-class ListNode:
-    def __init__(self, val=0, next=[]):
-        self.val = val
-        self.next = next
-
 class Day6:
     def __init__(self, input=[]):
         self.orbitList = []
